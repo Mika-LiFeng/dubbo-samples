@@ -1,5 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="CommentApplicationGray" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="tasks-shop">
+    <option name="ACTIVE_PROFILES" />
     <module name="dubbo-samples-shop-comment-gray" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="org.apache.dubbo.samples.comment.CommentApplicationGray" />
     <option name="VM_PARAMETERS" value="-Ddubbo.labels=&quot;env=gray&quot;" />

@@ -1,5 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="FrontEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="tasks-shop">
+    <option name="ACTIVE_PROFILES" />
     <module name="dubbo-samples-shop-frontend" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="org.apache.dubbo.samples.frontend.FrontEndApplication" />
     <method v="2">

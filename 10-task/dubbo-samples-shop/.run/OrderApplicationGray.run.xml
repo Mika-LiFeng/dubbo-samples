@@ -1,5 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="OrderApplicationGray" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="tasks-shop">
+    <option name="ACTIVE_PROFILES" />
     <module name="dubbo-samples-shop-order-gray" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="org.apache.dubbo.samples.order.OrderApplicationGray" />
     <option name="VM_PARAMETERS" value="-Ddubbo.labels=&quot;env=gray&quot;" />

@@ -1,5 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="DetailApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="tasks-shop">
+    <option name="ACTIVE_PROFILES" />
     <module name="dubbo-samples-shop-detail-v2" />
     <selectedOptions>
       <option name="environmentVariables" />
