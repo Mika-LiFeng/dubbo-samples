@@ -17,12 +17,12 @@
 
 package org.apache.dubbo.samples.client;
 
-import java.io.IOException;
-
 import org.apache.dubbo.config.ReferenceConfig;
 import org.apache.dubbo.config.bootstrap.DubboBootstrap;
 import org.apache.dubbo.config.bootstrap.builders.ReferenceBuilder;
 import org.apache.dubbo.samples.api.GreetingsService;
+
+import java.io.IOException;
 
 public class Application {
     public static void main(String[] args) throws IOException {

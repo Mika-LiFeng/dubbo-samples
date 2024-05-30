@@ -22,6 +22,6 @@ import org.apache.dubbo.samples.api.api.GreetingsService;
 public class GreetingsServiceImpl implements GreetingsService {
     @Override
     public String sayHi(String name) {
-        return "hi, " + name;
+        return "hello, " + name;
     }
 }
